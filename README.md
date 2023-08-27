@@ -5,7 +5,7 @@
 > A swish army swissary knife but nicer looking 
 
 A hub used to post the various products. I've been creating some personal arts and crafts projects through the years. Hopefully I'll be able to move some things here.
-ß
+ß                                                       
 Created with _create-react-app_. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Set Up
