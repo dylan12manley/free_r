@@ -4,7 +4,20 @@
 
 > A swish army swissary knife but nicer looking 
 
-A public hub I post the various personal projects on through the years
+A hub used to post the various products. I've been creating some personal arts and crafts projects through the years. Hopefully I'll be able to move some things here.
+ß
+Created with _create-react-app_. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+## Set Up
+Clone the project to your desired location by running `git clone https://github.com/dylan12manley/free_r.git`
+
+run cd `free_r_gift` to move into the project folder, then run `npm install` in the project folder
+
+## Usage
+
+`npm start`
+
+## Enhancement
 
 <div align="center">
 
